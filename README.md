@@ -1,6 +1,10 @@
 # Learning OSS development through GitHub
 
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 9d1e364da866a2aa4d980da7c5f9b0252aec1fbc
 | Participant   | Role       | ETC |
 |---------------|------------|-----|
 | Jeongkyu Shin | Instructor |     |
@@ -8,6 +12,7 @@
 | Jaehun Kim.   | student.   |     |
 | Hansae Ju     | Student    |     |
 | Jaewoo Yang   | Student    |     |
+<<<<<<< HEAD
 | Cho young il  | Student    |     |
 | Jinsung An    | Student    |     |
 | Minwoo Son	| Student    |     |
@@ -41,6 +46,11 @@
 | Hyobin Lee    | Student    |     |
 | Hayeong Lee   | Student    |     |
 | YoungHoon Kwon| Student    |     |
+=======
+| KeonWoong Noh | Student    |     |
+| ChaeHyun Baek | Student    |     |
+| JK            | Student    |     |
+>>>>>>> 9d1e364da866a2aa4d980da7c5f9b0252aec1fbc
 | Haeun Choi    | Student    |     |
 | Moon ki hun   | Student    |     |
 | Seungchan Yu  | Student    |     |
@@ -49,6 +59,7 @@
 | Yejun Kim     | Student    |     |
 | Yunjea Nam    | Student    |     |
 | Cho young il  | Student    |     |
+<<<<<<< HEAD
 | Kim yong jun  | Student    |     |
 | Yerim Hwang	| Student    |     |
 | Minjun Kim    | Student    |     |
@@ -59,6 +70,10 @@
 | Keunmo Koo	  | Genius     |     |
 
 
+=======
+| JaeHun Lee    | Student    |     |
+| Taewan Park   | Student    |     |
+>>>>>>> 9d1e364da866a2aa4d980da7c5f9b0252aec1fbc
 
 # Galtron
 A simple 2D shooter made with pygame, written in python...
@@ -71,4 +86,3 @@ To run the game:
 	-Enter python main.py
 
 By Matt Boan 2017
-
